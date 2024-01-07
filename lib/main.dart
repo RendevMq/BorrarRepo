@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: const Text("Mi aplicativo"),
+          title: const Text("Mi aplicativoooooo"),
         ),
     ),);
   }
